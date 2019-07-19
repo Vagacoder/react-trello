@@ -1,4 +1,5 @@
 # react-trello
+### A Repository from https://github.com/rcdexta/react-trello, for study React DnD Card. ###
 
 Pluggable components to add a trello-like kanban board to your application
 
